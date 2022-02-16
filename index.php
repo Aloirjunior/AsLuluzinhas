@@ -98,11 +98,12 @@
                            	 	<img src="img/model11.jpg" />
                                 
                                 <div class="detalhes">
+                                  <div id="context">
                                 	<p>Phone strap colorido com miçangas</p>
                                 	<img src="img/linhaDetalhes.gif" />
                                   <p>POR APENAS:</p><br>
                                     <p id="total">R$15,00</p>
-                                    
+                                  </div>  
                                     
                                 </div>
                             </div>
