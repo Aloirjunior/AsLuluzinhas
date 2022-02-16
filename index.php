@@ -47,7 +47,7 @@
 		<strong>Atenção:</strong> Esse site só pode ser visualizado perfeitamente em um browser que suporta Web Standards. é recomendável que você <a href="http://www.webstandards.org/upgrade/" title="The Web Standards Project's browser upgrade initiative.">atualize o seu browser clicando aqui</a>. Obrigado e desculpe o transtorno.
 	</div>
     <div id="geral" class="home">
-		<div id="header">
+
         
         	<div class="center">
             
