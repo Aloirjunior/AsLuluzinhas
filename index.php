@@ -170,7 +170,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Phone strap colorido com miçangas</p>
+                                    <p>Brincos de praia com buzios azul</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
@@ -181,7 +181,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Phone strap colorido com miçangas</p>
+                                    <p>Cordão de praia com estrela em detalhe</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
@@ -193,7 +193,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Phone strap colorido com miçangas</p>
+                                    <p>Cordão de praia colorido com buzio</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
@@ -205,7 +205,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Phone strap colorido com miçangas</p>
+                                    <p>Cordão amarelo com limão</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
