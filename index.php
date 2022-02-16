@@ -100,8 +100,7 @@
                                 <div class="detalhes">
                                 	<p>Phone strap colorido com miçangas</p>
                                 	<img src="img/linhaDetalhes.gif" />
-                                        
-                                    <input type="text" />
+                                  <p>POR APENAS:</p><br>
                                     <p id="total">R$15,00</p>
                                     
                                     

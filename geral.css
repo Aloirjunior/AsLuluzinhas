@@ -101,7 +101,7 @@ html, body {height: 100%;}
 .conteudo #modelos .modelo .detalhes select#cor { margin:6px 10px 0 25px;}
 .conteudo #modelos .modelo .detalhes input { width:17px; height:17px; margin:16px 0 0 25px}
 .conteudo #modelos .modelo .detalhes p#valorAntigo {margin:-25px 0 0 48px; font:10px Tahoma, Geneva, sans-serif; color:##636C6A}
-.conteudo #modelos .modelo .detalhes p#total {margin:-17px 0 0 126px; font:14px Tahoma, Geneva, sans-serif; color:#D64B10}
+.conteudo #modelos .modelo .detalhes p#total {margin:-17px 0 0 50px; font:30px Tahoma, Geneva, sans-serif; color:#D64B10}
 .conteudo #modelos .modelo .detalhes #desejos { background:url(img/btAddlista.png) no-repeat 0 0; width:194px; height:20px; float:left; margin:17px 0 0 25px; color:#FFF; text-decoration:none; font:11px Tahoma, Geneva, sans-serif; padding:3px 0 0 55px}
 .conteudo #modelos .modelo .detalhes #desejos:hover { background:url(img/btAddlista.png) no-repeat 0 -23px;}
 .conteudo #modelos .modelo .detalhes #addsacola { background:url(img/bgSacola.png) no-repeat 0 0; width:194px; height:20px; float:left; margin:3px 0 0 25px; color:#FFF; text-decoration:none; font:11px Tahoma, Geneva, sans-serif; padding:3px 0 0 100px}
