@@ -50,11 +50,6 @@
 
         
         	<div class="center">
-            
-            	<div class="topo">
-                
-                 	  
-                </div>
                 <div class="banner">
                 	 <div id="container" calss="carousel slide">
                      	<a class="item " href="#"></a>
