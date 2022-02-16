@@ -98,17 +98,11 @@
                            	 	<img src="img/model11.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
+                                	<p>Phone strap colorido com miçangas</p>
                                 	<img src="img/linhaDetalhes.gif" />
-                                    <p>Phone strap colorido com miçangas</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    
-                                    </p>    
+                                        
                                     <input type="text" />
-                                    <p id="valorAntigo">R$15,00 </p>
+                                    <p id="total">R$15,00</p>
                                     
                                     
                                 </div>
