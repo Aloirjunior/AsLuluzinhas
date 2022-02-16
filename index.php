@@ -52,22 +52,7 @@
         	<div class="center">
             
             	<div class="topo">
-                	<div id="TopoDir">
-                		<h1><a id="logo" href="#"><img src="img/LogoTopo.png" /></a></h1>
-                    	
-                    </div>
-                    
-                    <div id="TopoEsq">
-                    	<p id="contato">Contato<span id="conheca"><a href="#">Conheça o site da última coleção</a></span></p>
-                        <form>
-                        	<label>BUSCA</label>
-                        	<p id="procura"><input type="text"  /></p>
-                            <p id="btProcura"><input type="button"  /></p>
-                            
-                        </form>
-                       
-                     </div>
-                    <p id="linha"><img src="img/linhaInferior.gif" /></p>
+                
                  	  
                 </div>
                 <div class="banner">
