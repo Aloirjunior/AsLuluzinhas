@@ -90,16 +90,7 @@
                 	<div class="conteudo">
                 
                         <div id="paginas">
-                        
-            
-                            <ul>
-                            	<li><a href="#">></a></li>
-                                <li class="btpgs"><a href="#">4</a></li>
-                            	<li class="btpgs ativo"><a href="#">3</a> . </li>
-                                <li class="btpgs"><a href="#">2</a> . </li>
-                                <li class="btpgs"><a href="#">1</a> . </li>
-                                <li><a href="#"><</a></li>
-                             </ul> 
+                        <p><strong>Produtos em destaque</strong></p>
                         </div>
                         
                          <div id="modelos">

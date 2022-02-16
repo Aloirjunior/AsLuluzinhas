@@ -88,7 +88,7 @@ html, body {height: 100%;}
 .conteudo ul li.ativo a{ color:#E85F0C}
 
 /* Modelos */
-
+.conteudo #paginas{width: 510px}
 .conteudo #paginasbottom { margin:44px 0 10px 0; float:right}
 .conteudo #paginasbottom ul li { margin-left: 14px}
 .conteudo #modelos { margin-top:40px; width:940px}
