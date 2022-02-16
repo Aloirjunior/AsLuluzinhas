@@ -127,7 +127,7 @@
                                     <p>Conjunto brinco cordão</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
-                                      <p id="total">R$15,00</p>
+                                      <p id="total">R$20,00</p>
                                   </div>  
                                 </div>
                             </div>
@@ -139,7 +139,7 @@
                                     <p>cordão para óculos</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
-                                      <p id="total">R$15,00</p>
+                                      <p id="total">R$17,00</p>
                                   </div>  
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                                     <p>Brincos de praia com buzios azul</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
-                                      <p id="total">R$15,00</p>
+                                      <p id="total">R$13,90</p>
                                   </div>  
                                 </div>
                             </div><div class="modelo">
