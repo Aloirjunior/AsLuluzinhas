@@ -1,0 +1,189 @@
+.clear{clear:both !important; float:none !important; margin:0px !important; padding:0px !important; height:0px !important; width:0px !important}
+.clearfix:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+.clearfix {display: inline-block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+
+img { display:block;}
+
+.oldBrowser{display: none !important}
+.center{width:980px; margin:0 auto; text-align:left}
+body {background-color:#FFF; font-family:Arial, Helvetica, sans-serif; font-size:13px; line-height:17px; color:#333;}
+
+/* Rodapé fixo */
+
+html, body {height: 100%;}
+#geral {min-height: 100%; position: relative;}
+* html #geral {height: 100%}
+#footer{ position:absolute; bottom: 0; width:100%}
+#conteudo{ padding-bottom: 67px !important;}
+
+/* Fim Rodapé fixo */
+
+.topo { border-top:2px solid #D64B10; width:940px; height:225px; margin:9px 0 0 25px}
+.topo #TopoDir { float:left}
+.topo #TopoDir h1 {width:216px; height:97px; margin:33px 0 0 5px; display:inline-block}
+.topo #TopoDir p { font:10px Tahoma, Geneva, sans-serif;margin: 19px 0 0 11px}
+.topo #TopoDir p span { color:#A3ADB4}
+.topo #TopoDir p span a { text-decoration:none}
+.topo #TopoDir p span a:hover {color:#000}
+
+.topo #TopoEsq { float:right}
+
+.topo #TopoEsq p#contato { color:#A3ADB4; font:10px Tahoma, Geneva, sans-serif; margin:-38px 0 0 304px}
+.topo #TopoEsq p span#conheca a{ color:#D64B10; margin-left:30px; text-decoration:none}
+
+.topo #TopoEsq form { float:right; margin-top:18px}
+.topo #TopoEsq form label { font:10px Tahoma, Geneva, sans-serif; color:#6C7984; margin:2px 5px 0 30px; float:left}
+.topo #TopoEsq form p#procura { display:inline-block; background-color: #CCC; margin:0px; margin-right:5px; float:left}
+.topo #TopoEsq form p#procura input { border:none; background-color:transparent; height:19px}
+.topo #TopoEsq form p#btProcura{ float:left; margin:0px}
+.topo #TopoEsq form p#btProcura input{ background:url(img/btBuscar.gif) no-repeat 0 0; width:21px; height:19px;border:none; float:left;}
+.topo #TopoEsq form p#btProcura input:hover{ background:url(img/btBuscar.gif) no-repeat 0 -19px}
+.topo #TopoEsq form a { text-decoration:none; margin:10px 0 0 10px; float:right; display:inline-block; font:10px Tahoma, Geneva, sans-serif;color:#CCC}
+.topo #TopoEsq form a:hover {color:#000}
+
+.topo #TopoEsq { margin-top:50px; width:515px}
+.topo #TopoEsq #bts {display:inline-block; float:right; margin-top:35px}
+.topo #TopoEsq #bts p span#lista { background:url(img/btListaDesejos.png) no-repeat 0 0; width:165px; height:26px; float:left; margin-right:5px ; display:inline-block}
+.topo #TopoEsq #bts p span#lista:hover { background:url(img/btListaDesejos.png) no-repeat 0 -26px;}
+.topo #TopoEsq #bts p span#lista a {color:#284151; margin:5px 0 0 30px; display:inline-block; text-decoration:none; font:10px Tahoma, Geneva, sans-serif}
+.topo #TopoEsq #bts p span#sacola { background:url(img/btAddsacola.gif) no-repeat 0 0; width:182px; height:26px;float:left; display:inline-block}
+.topo #TopoEsq #bts p span#sacola:hover { background:url(img/btAddsacola.gif) no-repeat 0 -26px}
+.topo #TopoEsq #bts p span#sacola a {color:#D64B10; margin:5px 0 0 30px; display:inline-block; text-decoration:none; font:10px Tahoma, Geneva, sans-serif}
+.topo #TopoEsq #bts p span#finalizar { background:url(img/btfinalizarcompra.png) no-repeat 0 0; width:103px; height:23px;margin:2px 0 0 5px; float:right; display:inline-block}
+.topo #TopoEsq #bts p span#finalizar:hover { background:url(img/btfinalizarcompra.png) no-repeat 0 -23px}
+.topo #TopoEsq #bts p span#finalizar a {color:#ffffff; margin:4px 0 0 10px; display:inline-block; text-decoration:none; font:10px Tahoma, Geneva, sans-serif}
+.topo p#linha { margin-top:181px}
+
+/* Menu */
+
+.menu { margin: 14px 0 0 -28px; float:left; display:inline-block; width:958px}
+.menu span { color:#D64B10; float:right;font:10px Arial, Helvetica, sans-serif; display:inline-block; margin:-15px 0 2px 0 }
+.menu ul{}
+.menu ul li { display:inline; color:#A3ADB4; font:10px Arial, Helvetica, sans-serif}
+.menu ul li a { text-decoration:none; margin-left:40px}
+.menu ul li a:hover {color:#000}
+
+/* Banner */
+
+.banner { float:left; margin:6px 0 20px 24px}
+.banner #container { float:left}
+.banner ul { margin:-340px 24px 0 0px; float:right; display:inline-block}
+.banner ul li { display:inline-block; margin:2px}
+.banner ul li a { background:url(img/bullet.gif) no-repeat 0 0; display:inline-block; width:12px; height:11px;}
+.banner ul li.ativo a { background:url(img/bullet.gif) no-repeat 0 -11px;}
+.banner #setaEsq a { background:url(img/btRetorna.gif) no-repeat 0 0; width:16px; height:32px; margin:-191px 0 0 24px ;float:left}
+.banner #setaEsq a:hover { background:url(img/btRetorna.gif) no-repeat 0 -32px}
+.banner #setaDir a { background:url(img/btAvanca.gif) no-repeat 0 0; width:16px; height:32px; margin:-191px 37px 0 0 ;float:right}
+.banner #setaDir a:hover { background:url(img/btAvanca.gif) no-repeat 0 -32px}
+
+/* Conteudo */
+
+.conteudo { float:left; margin:25px; width:940px }
+.conteudo ul { margin-top:-22px; font:9px Tahoma, Geneva, sans-serif}
+.conteudo ul li{ float:right; display:inline; margin-left:5px}
+.conteudo ul li a{ text-decoration:none; color:#BFC5C3}
+.conteudo ul li a:hover{ color:#000}
+.conteudo ul li.ativo a{ color:#E85F0C}
+
+/* Modelos */
+
+.conteudo #paginasbottom { margin:44px 0 10px 0; float:right}
+.conteudo #paginasbottom ul li { margin-left: 14px}
+.conteudo #modelos { margin-top:40px; width:940px}
+.conteudo #modelos .modelo { width:236spx; float:left}
+.conteudo #modelos .modelo { float:left; margin:0;}
+.conteudo #modelos .modelo .detalhes { background:url(img/bgDetalhes.png) no-repeat 0 0; width:235px; height:242px;  float:left; position:absolute; margin-top:-242px; display:none}
+.conteudo #modelos .modelo:hover .detalhes{display:block}
+
+.conteudo #modelos .modelo .detalhes img { margin:14px 0 0 22px; font:12px Georgia, "Times New Roman", Times, serif }
+.conteudo #modelos .modelo .detalhes p { margin:9px 0 0 24px; font:13px Georgia, "Times New Roman", Times, serif }
+.conteudo #modelos .modelo .detalhes select#cor { margin:6px 10px 0 25px;}
+.conteudo #modelos .modelo .detalhes input { width:17px; height:17px; margin:16px 0 0 25px}
+.conteudo #modelos .modelo .detalhes p#valorAntigo {margin:-25px 0 0 48px; font:10px Tahoma, Geneva, sans-serif; color:##636C6A}
+.conteudo #modelos .modelo .detalhes p#total {margin:-17px 0 0 126px; font:14px Tahoma, Geneva, sans-serif; color:#D64B10}
+.conteudo #modelos .modelo .detalhes #desejos { background:url(img/btAddlista.png) no-repeat 0 0; width:194px; height:20px; float:left; margin:17px 0 0 25px; color:#FFF; text-decoration:none; font:11px Tahoma, Geneva, sans-serif; padding:3px 0 0 55px}
+.conteudo #modelos .modelo .detalhes #desejos:hover { background:url(img/btAddlista.png) no-repeat 0 -23px;}
+.conteudo #modelos .modelo .detalhes #addsacola { background:url(img/bgSacola.png) no-repeat 0 0; width:194px; height:20px; float:left; margin:3px 0 0 25px; color:#FFF; text-decoration:none; font:11px Tahoma, Geneva, sans-serif; padding:3px 0 0 100px}
+.conteudo #modelos .modelo .detalhes #addsacola:hover { background:url(img/bgSacola.png) no-repeat 0 -23px;}
+.conteudo #modelos .modelo .detalhes .tamanho { margin:-28px 0 0 80px}
+/* footer */
+
+
+.footer { width:940px; margin:auto}
+.footer #menufooter{ float:left}
+.footer #menufooter #linha1 { margin:15px 0 7px 0; display:inline-block}
+.footer #menufooter #linha2 { margin:7px 0 7px 0; display:inline-block}
+.footer #menufooter p { float:right; display:inline-block; display:inline; color:#000000; font:10px Arial, Helvetica, sans-serif; margin-top:-22px}
+.footer #menufooter p span { background:url(img/bgBtbottom.jpg) no-repeat 0 0; margin-left:5px;display: inline-block }
+.footer #menufooter p span:hover { background:url(img/bgBtbottom.jpg) no-repeat 0 -28px; }
+.footer #menufooter p span a { text-decoration:none; display:inline-block}
+.footer #menufooter p span#um { width:73px; height:28px; padding:}
+.footer #menufooter p span a { padding:7px 0 0 10px}
+.footer #menufooter p span#dois { width:107px; height:28px; padding:}
+.footer #menufooter p span#tres { width:97px; height:28px; padding:}
+.footer #menufooter ul{ width:400px; margin-top:3px}
+.footer #menufooter ul li { display:inline; color:#A3ADB4; font:10px Arial, Helvetica, sans-serif}
+.footer #menufooter ul li a { text-decoration:none; margin-right:40px}
+.footer #menufooter ul li a:hover {color:#000}
+
+.footer #menufooter #forPagamento p#formapg { float:left; display:inline-block; color:#A3ACB3;font:10px Arial, Helvetica, sans-serif}
+.footer #menufooter #forPagamento img { margin-top:20px}
+
+
+/* Used only when enhanced */
+#ordenar .enhanced a { font-size:12px; text-decoration:none; color:#A3ADB4; }
+#ordenar .dropdown { width:234px; position:relative; margin:0 0 0 12px;}
+#ordenar .dropdown input{position:absolute; z-index:-10; border:none; height:1px; width:1px;}
+#ordenar .dropdown dd{position:absolute;}
+#ordenar .dropdown .options { position:relative; left:0px; overflow:scroll !important; overflow-x:hidden !important; background:#fff; width:213px !important; border:1px solid #c8c8c8; margin-top:-1px}
+#ordenar .dropdown .options ul { list-style:none; margin:0; margin-bottom:1px}
+#ordenar .dropdown .options li{float:left;}
+#ordenar .dropdown .options a { display:block; font-size:12px; padding:1px 30px 1px 10px; }
+#ordenar .dropdown .options a:hover { background-color:#EFEFEF}
+#ordenar .dropdown .hidden{ display:none}
+#ordenar a.dropdown_toggle { display:block; background:url(img/select.jpg) no-repeat 0 0; width:234px; height:20px; font-weight:normal; line-height:18px}
+#ordenar a.dropdown_toggle.focusCampoSelect{ background-position:0 -20px}
+#ordenar a.dropdown_toggle p{ display:block; position:relative; overflow:hidden; height:20px; width: 234px;}
+#ordenar a.dropdown_toggle p span { display:block;}
+#ordenar a.dropdown_toggle p span strong{ font-weight:normal; display:block; color: #A3ADB4; padding:0 0 0 10px; margin:0; line-height:20px; height:20px; cursor:pointer !important;}
+
+/* Used only when enhanced */
+.selectdeta .enhanced a { font-size:12px; text-decoration:none; color:#A3ADB4; }
+.selectdeta .dropdown { width:40px; position:relative; margin:0 0 0 12px;}
+.selectdeta .dropdown input{position:absolute; z-index:-10; border:none; height:1px; width:1px;}
+.selectdeta .dropdown dd{position:absolute;}
+.selectdeta .dropdown .options { position:relative; left:0px; overflow:scroll !important; overflow-x:hidden !important; background:#fff; width:40px !important; border:1px solid #c8c8c8; margin-top:-1px}
+.selectdeta .dropdown .options ul { list-style:none; margin:0; margin-bottom:1px}
+.selectdeta .dropdown .options li{float:left;}
+.selectdeta .dropdown .options a { display:block; font-size:12px; padding:1px 30px 1px 10px; }
+.selectdeta .dropdown .options a:hover { background-color:#EFEFEF}
+.selectdeta .dropdown .hidden{ display:none}
+.selectdeta a.dropdown_toggle { display:block; background:url(img/selectSmall.jpg) no-repeat 0 0; width:40px; height:20px; font-weight:normal; line-height:18px}
+.selectdeta a.dropdown_toggle.focusCampoSelect{ background-position:0 -20px}
+.selectdeta a.dropdown_toggle p{ display:block; position:relative; overflow:hidden; height:20px; width: 40px;}
+.selectdeta a.dropdown_toggle p span { display:block;}
+.selectdeta a.dropdown_toggle p span strong{ font-weight:normal; display:block; color: #A3ADB4; padding:0 0 0 10px; margin:0; line-height:20px; height:20px; cursor:pointer !important;}
+
+/* Used only when enhanced */
+
+.tamanho .enhanced a { font-size:12px; text-decoration:none; color:#A3ADB4; }
+.tamanho .dropdown { width:40px; position:relative; margin:0 0 0 12px;}
+.tamanho .dropdown input{position:absolute; z-index:-10; border:none; height:1px; width:1px;}
+.tamanho .dropdown dd{position:absolute;}
+.tamanho .dropdown .options { position:relative; left:0px; overflow:scroll !important; overflow-x:hidden !important; background:#fff; width:40px !important; border:1px solid #c8c8c8; margin-top:-1px}
+.tamanho .dropdown .options ul { list-style:none; margin:0; margin-bottom:1px}
+.tamanho .dropdown .options li{float:left;}
+.tamanho .dropdown .options a { display:block; font-size:12px; padding:1px 30px 1px 0px; }
+.tamanho .dropdown .options a:hover { background-color:#EFEFEF}
+.tamanho .dropdown .hidden{ display:none}
+.tamanho a.dropdown_toggle { display:block; background:url(img/selectSmall.jpg) no-repeat 0 0; width:40px; height:20px; font-weight:normal; line-height:18px}
+.tamanho a.dropdown_toggle.focusCampoSelect{ background-position:0 -20px}
+.tamanho a.dropdown_toggle p{ display:block; position:relative; overflow:hidden; height:20px; width: 40px;}
+.tamanho a.dropdown_toggle p span { display:block;}
+.tamanho a.dropdown_toggle p span strong{ font-weight:normal; display:block; color: #A3ADB4; padding:0 0 0 10px; margin:0; line-height:20px; height:20px; cursor:pointer !important;}
+
+
+
+
