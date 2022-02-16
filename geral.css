@@ -89,7 +89,7 @@ html, body {height: 100%;}
 
 /* Modelos */
 
-.conteudo #paginas p{ margin:44px 0 10px 0; float:right}
+.conteudo #paginas p{ margin:0px 0 0px 400px; float:left;font-size: 18px;}
 .conteudo #modelos { margin-top:40px; width:940px}
 .conteudo #modelos .modelo { width:236spx; float:left}
 .conteudo #modelos .modelo { float:left; margin:0;}
