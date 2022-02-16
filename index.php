@@ -95,7 +95,7 @@
                         
                          <div id="modelos">
                          	<div class="modelo">
-                           	 	<img src="img/model1.jpg" />
+                           	 	<img src="img/model0.jpg" />
                                 
                                 <div class="detalhes">
                                   <div id="context">
