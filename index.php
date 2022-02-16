@@ -63,7 +63,7 @@
                         	<label>BUSCA</label>
                         	<p id="procura"><input type="text"  /></p>
                             <p id="btProcura"><input type="button"  /></p>
-                            <p><a href="#">procura avançada</a></p>
+                            
                         </form>
                        
                      </div>
@@ -100,24 +100,17 @@
                                 <div class="detalhes">
                                 	<p>+ mais detalhes do produto</p>
                                 	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
+                                    <p>Phone strap colorido com miçangas</p>
                                     <p class="selectdeta">
                                       <select id="cor"></select>
                                       </p>
                                     <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">P</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
+                                    
                                     </p>    
                                     <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar à lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar à sacola</a>
+                                    <p id="valorAntigo">R$15,00 </p>
+                                    
+                                    
                                 </div>
                             </div>
                             <div class="modelo">
@@ -407,19 +400,7 @@
                               
                               </div>
                              
-                                <div id="paginasbottom">
-                                    <ul>
-                                        <li><a href="#">></a></li>
-                                        <li class="btpgs"><a href="#">4</a></li>
-                                        <li> . </li>
-                                        <li class="btpgs ativo"><a href="#">3</a></li>
-                                        <li> . </li>
-                                        <li class="btpgs"><a href="#">2</a></li>
-                                        <li> . </li>
-                                        <li class="btpgs"><a href="#">1</a></li>
-                                        <li><a href="#"><</a></li>
-                                     </ul>
-                                 </div>
+                            
                                        
                     </div>
                              
