@@ -54,7 +54,7 @@
             	<div class="topo">
                 	<div id="TopoDir">
                 		<h1><a id="logo" href="#"><img src="img/LogoTopo.png" /></a></h1>
-                    	<p>Olá, Usuario ! <span>    |    <a href="#">Sair</a></span> <span>    |    <a href="#">Minha conta</a></span></p>
+                    	
                     </div>
                     
                     <div id="TopoEsq">
@@ -65,24 +65,10 @@
                             <p id="btProcura"><input type="button"  /></p>
                             <p><a href="#">procura avançada</a></p>
                         </form>
-                       <div id="bts">
-                       		<p><span id="lista"><a href="#">lista de desejos <strong>(00 itens)</strong></a></span> <span id="sacola"><a href="#">sacola <strong>(00 itens, R$0.000,00)</strong></a></span> <span id="finalizar"><a href="#">finalizar compra</a></span></p>
-                       </div>
+                       
                      </div>
                     <p id="linha"><img src="img/linhaInferior.gif" /></p>
-                 	<div class="menu">
-                     <ul>
-                     	<li><a href="#">Blazer</a></li>
-                        <li><a href="#">Blusa</a></li>
-                        <li><a href="#">Body</a></li>
-                        <li><a href="#">Calça</a></li>
-                        <li><a href="#">Camisa</a></li>
-                        <li><a href="#">Vestido</a></li>
-                        <li><a href="#">Saia</a></li>
-                        <li><a href="#">Outros</a></li>
-                     </ul>
-                     <a href="#"><span>PRODUTOS EM PROMOÇÃO</span></a>
-                     </div>   
+                 	  
                 </div>
                 <div class="banner">
                 	 <div id="container" calss="carousel slide">
@@ -105,15 +91,7 @@
                 
                         <div id="paginas">
                         
-                            <p id="ordenar">
-                                <select id="selec" class="resetSelect " name="ordenar">
-                                    <option value="">Ordenar</option>
-                                    <option value="">ksjsdfglafdhjkgkl</option>
-                                    <option value="">dajkkdsgfakjhdssf</option>
-                                    <option value="">dajefhsgdjfhhjksf</option>
-                                </select>
-                            </p>
-                            
+            
                             <ul>
                             	<li><a href="#">></a></li>
                                 <li class="btpgs"><a href="#">4</a></li>
