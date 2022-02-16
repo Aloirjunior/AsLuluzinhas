@@ -181,7 +181,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Cordão de praia com estrela em detalhe</p>
+                                    <p>Cordão de praia com estrela</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
