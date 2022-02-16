@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt-br">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <title>As Meninas</title>
+    <title>As Luluzinhas</title>
     <meta name="title" content="AMABILIS" />
     <meta name="description" content="Visualiza��o de Grafico" />
     <meta name="keywords" content="" />
