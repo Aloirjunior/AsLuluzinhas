@@ -152,7 +152,7 @@
                                 </div>
                             </div>
                             <div class="modelo">
-                           	 	<img src="img/model1.gif"/>
+                           	 	<img src="img/model1.jpg"/>
                                 
                                 <div class="detalhes">
                                 	<p>+ mais detalhes do produto</p>
