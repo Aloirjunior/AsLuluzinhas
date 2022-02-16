@@ -95,14 +95,14 @@
                         
                          <div id="modelos">
                          	<div class="modelo">
-                           	 	<img src="img/model11.jpg" />
+                           	 	<img src="img/model1.jpg" />
                                 
                                 <div class="detalhes">
                                   <div id="context">
-                                	<p>Phone strap colorido com miçangas</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                  <p>POR APENAS:</p><br>
-                                    <p id="total">R$15,00</p>
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
                                   </div>  
                                     
                                 </div>
@@ -111,284 +111,129 @@
                            	 	<img src="img/model1.jpg"/>
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">P</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>      
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar à lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar à sacola</a>
+                                <div id="context">
+                                    <p>Cordão em 2 peças</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$20,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model2.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>      
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Conjunto brinco cordão</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model3.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>    
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model4.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>    
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div><div class="modelo">
                            	 	<img src="img/model5.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>    
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div><div class="modelo">
                            	 	<img src="img/model6.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>     
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div><div class="modelo">
                            	 	<img src="img/model7.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                   <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>     
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model8.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                   	<p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>    
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model9.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>      
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model10.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>     
-                                    <input type="text" />
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                             </div>
                             <div class="modelo">
                            	 	<img src="img/model11.jpg" />
                                 
                                 <div class="detalhes">
-                                	<p>+ mais detalhes do produto</p>
-                                	<img src="img/linhaDetalhes.gif" />
-                                    <p>Vestido Longo Design Fashion Creme</p>
-                                    <p class="selectdeta">
-                                      <select id="cor"></select>
-                                      </p>
-                                    <p class="tamanho">
-                                    <select id="tam">
-                                      	<option value=""></option>
-                                        <option value="">p</option>
-                                        <option value="">M</option>
-                                        <option value="">G</option>
-                                        <option value="">GG</option>
-                                      </select>
-                                    </p>    
-                                    <input type="text" />
-                                    
-                                    <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
-                                    <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                <div id="context">
+                                    <p>Phone strap colorido com miçangas</p>
+                                    <img src="img/linhaDetalhes.gif" />
+                                    <p>POR APENAS:</p><br>
+                                      <p id="total">R$15,00</p>
+                                  </div>  
                                 </div>
                               </div>
                               
