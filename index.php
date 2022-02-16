@@ -44,7 +44,7 @@
 </head>
 <body>
 	<div class="oldBrowser">
-		<strong>Aten��o:</strong> Esse site s� pode ser visualizado perfeitamente em um browser que suporta Web Standards. � recomend�vel que voc� <a href="http://www.webstandards.org/upgrade/" title="The Web Standards Project's browser upgrade initiative.">atualize o seu browser clicando aqui</a>. Obrigado e desculpe o transtorno.
+		<strong>Atenção:</strong> Esse site só pode ser visualizado perfeitamente em um browser que suporta Web Standards. é recomendável que você <a href="http://www.webstandards.org/upgrade/" title="The Web Standards Project's browser upgrade initiative.">atualize o seu browser clicando aqui</a>. Obrigado e desculpe o transtorno.
 	</div>
     <div id="geral" class="home">
 		<div id="header">
@@ -54,16 +54,16 @@
             	<div class="topo">
                 	<div id="TopoDir">
                 		<h1><a id="logo" href="#"><img src="img/LogoTopo.png" /></a></h1>
-                    	<p>Ola, Usuario ! <span>    |    <a href="#">Sair</a></span> <span>    |    <a href="#">Minha conta</a></span></p>
+                    	<p>Olá, Usuario ! <span>    |    <a href="#">Sair</a></span> <span>    |    <a href="#">Minha conta</a></span></p>
                     </div>
                     
                     <div id="TopoEsq">
-                    	<p id="contato">Contato<span id="conheca"><a href="#">Conhe�a o site da �ltima cole��o</a></span></p>
+                    	<p id="contato">Contato<span id="conheca"><a href="#">Conheça o site da última coleção</a></span></p>
                         <form>
                         	<label>BUSCA</label>
                         	<p id="procura"><input type="text"  /></p>
                             <p id="btProcura"><input type="button"  /></p>
-                            <p><a href="#">procura avan�ada</a></p>
+                            <p><a href="#">procura avançada</a></p>
                         </form>
                        <div id="bts">
                        		<p><span id="lista"><a href="#">lista de desejos <strong>(00 itens)</strong></a></span> <span id="sacola"><a href="#">sacola <strong>(00 itens, R$0.000,00)</strong></a></span> <span id="finalizar"><a href="#">finalizar compra</a></span></p>
@@ -75,13 +75,13 @@
                      	<li><a href="#">Blazer</a></li>
                         <li><a href="#">Blusa</a></li>
                         <li><a href="#">Body</a></li>
-                        <li><a href="#">Cal�a</a></li>
+                        <li><a href="#">Calça</a></li>
                         <li><a href="#">Camisa</a></li>
                         <li><a href="#">Vestido</a></li>
                         <li><a href="#">Saia</a></li>
                         <li><a href="#">Outros</a></li>
                      </ul>
-                     <a href="#"><span>PRODUTOS EM PROMO��O</span></a>
+                     <a href="#"><span>PRODUTOS EM PROMOÇÃO</span></a>
                      </div>   
                 </div>
                 <div class="banner">
@@ -138,7 +138,7 @@
                                     <p class="tamanho">
                                     <select id="tam">
                                       	<option value=""></option>
-                                        <option value="">p</option>
+                                        <option value="">P</option>
                                         <option value="">M</option>
                                         <option value="">G</option>
                                         <option value="">GG</option>
@@ -147,8 +147,8 @@
                                     <input type="text" />
                                     <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
                                     <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                    <a id="desejos" href="#">adicionar à lista de desejos</a>
+                                    <a id="addsacola" href="#">adicionar à sacola</a>
                                 </div>
                             </div>
                             <div class="modelo">
@@ -164,7 +164,7 @@
                                     <p class="tamanho">
                                     <select id="tam">
                                       	<option value=""></option>
-                                        <option value="">p</option>
+                                        <option value="">P</option>
                                         <option value="">M</option>
                                         <option value="">G</option>
                                         <option value="">GG</option>
@@ -173,8 +173,8 @@
                                     <input type="text" />
                                     <p id="valorAntigo">de R$000,00 por<br> x R$350,00 =</p>
                                     <p id="total">R$0.000,00</p>
-                                    <a id="desejos" href="#">adicionar � lista de desejos</a>
-                                    <a id="addsacola" href="#">adicionar � sacola</a>
+                                    <a id="desejos" href="#">adicionar à lista de desejos</a>
+                                    <a id="addsacola" href="#">adicionar à sacola</a>
                                 </div>
                             </div>
                             <div class="modelo">
@@ -468,11 +468,11 @@
     	<ul>
           <li><a href="#">Sobre</a></li>
           <li><a href="#">Contato</a></li>
-          <li><a href="#">Pol�tica de privacidade</a></li>
-          <li><a href="#">D�vidas</a></li>
+          <li><a href="#">Política de privacidade</a></li>
+          <li><a href="#">Dúvidas</a></li>
         </ul>
         <p> 
-        	<span id="um"><a href="#">Troca F�cil</a></span>
+        	<span id="um"><a href="#">Troca Fácil</a></span>
         	<span id="dois"><a href="#">Entrega Garantida</a></span>
        	    <span id="tres"><a href="#">Compra Segura</a></span>
             
