@@ -99,7 +99,7 @@
                                 
                                 <div class="detalhes">
                                   <div id="context">
-                                    <p>cordão para óculos</p>
+                                    <p>Phone strap colorido com miçangas</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
@@ -136,7 +136,7 @@
                                 
                                 <div class="detalhes">
                                 <div id="context">
-                                    <p>Phone strap colorido com miçangas</p>
+                                    <p>cordão para óculos</p>
                                     <img src="img/linhaDetalhes.gif" />
                                     <p>POR APENAS:</p><br>
                                       <p id="total">R$15,00</p>
